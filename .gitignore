@@ -49,3 +49,4 @@ crashlytics-build.properties
 Assets/Fungus/
 *.meta
 .vsconfig
+sf_BurstDebugInformation_DoNotShip/
