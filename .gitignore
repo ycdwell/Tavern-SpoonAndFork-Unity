@@ -5,6 +5,13 @@
 [Bb]uilds/
 [Ll]ogs/
 
+Assets/Fungus/
+Assets/Plugins/
+Packages/
+ProjectSettings/
+UserSettings/
+sf_BurstDebugInformation_DoNotShip/
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
 
@@ -31,11 +38,13 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.vsconfig
 
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.meta
 
 # Unity3D generated file on crash reports
 sysinfo.txt
@@ -46,7 +55,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-Assets/Fungus/
-*.meta
-.vsconfig
-sf_BurstDebugInformation_DoNotShip/
