@@ -6,6 +6,9 @@
 [Ll]ogs/
 
 Assets/Fungus/
+Assets/FungusExamples/
+Assets/Tests/
+
 Assets/Plugins/
 Packages/
 ProjectSettings/
